@@ -3,7 +3,8 @@
 - Asynchronous database work
 - Advanced/Modern object cache system
 - Autoupdater
-- Themes for inventories and everything self editable
+- Themes for inventories
+- Most things are editable
 - Create your own addons with a cool API
 - Download cool recommended addons with only 1 setting in the config
 
@@ -28,16 +29,12 @@
 - Download customcore from SpigotMC
 - Add the plugin to your plugins folder
 - Restart your server
-- Now a folder has been created
-- Go to the folder and edit what you want
 
 ## Addons
 
 - Download addons from SpigotMC
 - Add the addon to your customcore addons folder
 - Restart your server
-- Now a folder has been created
-- Go to the folder and edit what you want
 
 ---
 
@@ -49,8 +46,8 @@
   - Joine our Discord and look at the channel #Addons
 - **Where do I find the *Permissions* for CustomCore?**
   - Just have a look at our SpigotMC page under Permissions or join our discord and watch the channel #Permissions
-- **Does the system *support* 1.16?**
-  - Of course the system is suitable for all versions!
+- **Does the system *support* <1.16.5?**
+  - No, the plugin is for 1.16.5 only!
 
 ---
 
@@ -58,7 +55,7 @@
 
 Reach out to me at one of the following places!
 
-- Discord at <a href="http://customcore.eu" target="_blank">`Discord.CustomCore.eu`</a>
+- Discord at <a href="https://discord.gg/GDHjg6x57m" target="_blank">`https://discord.gg/GDHjg6x57m`</a>
 - Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@customcoreMC`</a>
 - SpigtoMC at <a href="https://www.spigotmc.org/members/jens98.95926/" target="_blank">`Jens98`</a>
 
@@ -74,4 +71,4 @@ Reach out to me at one of the following places!
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-- Copyright 2020 © <a href="http://customcore.eu" target="_blank">Jens Simbrey</a>.
+- Copyright 2020 © <a href="http://customcore.eu" target="_blank">Jens</a>.
