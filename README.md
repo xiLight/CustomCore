@@ -1,4 +1,4 @@
-# CustomCore your Minecraft system with Addon function
+# CustomCore your minecraft system with addon function
 
 - Asynchronous database work
 - Advanced/Modern object cache system
